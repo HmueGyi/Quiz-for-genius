@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\QuizForGenius(C#)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\Hmue(C#)\\ProjectDesignTemplate\\ProjectDesignTemplate\\Category.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C14596E-CCE1-48DD-B3B2-0E072732F2D2}|ProjectDesignTemplate\\ProjectDesignTemplate1.csproj|D:\\Project\\QuizForGenius(C#)\\projectdesigntemplate\\admin\\addcategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8C14596E-CCE1-48DD-B3B2-0E072732F2D2}|ProjectDesignTemplate\\ProjectDesignTemplate1.csproj|solutionrelative:projectdesigntemplate\\admin\\addcategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.aspx.cs",
+              "DocumentMoniker": "D:\\C#\\Hmue(C#)\\ProjectDesignTemplate\\ProjectDesignTemplate\\Category.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\C#\\Hmue(C#)\\ProjectDesignTemplate\\ProjectDesignTemplate\\Category.aspx.cs",
+              "ToolTip": "D:\\C#\\Hmue(C#)\\ProjectDesignTemplate\\ProjectDesignTemplate\\Category.aspx.cs",
+              "RelativeToolTip": "..\\..\\C#\\Hmue(C#)\\ProjectDesignTemplate\\ProjectDesignTemplate\\Category.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADgvxYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:35:32.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addcategory.aspx",
+              "DocumentMoniker": "D:\\Project\\QuizForGenius(C#)\\ProjectDesignTemplate\\Admin\\addcategory.aspx",
+              "RelativeDocumentMoniker": "ProjectDesignTemplate\\Admin\\addcategory.aspx",
+              "ToolTip": "D:\\Project\\QuizForGenius(C#)\\ProjectDesignTemplate\\Admin\\addcategory.aspx",
+              "RelativeToolTip": "ProjectDesignTemplate\\Admin\\addcategory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-10T09:27:58.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
